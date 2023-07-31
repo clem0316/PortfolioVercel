@@ -168,40 +168,40 @@ const moreCall = () => {
 // 0 - Variables
 
 const survivorsVideo =
-  "https://res.cloudinary.com/dzq7b6tce/video/upload/v1689685868/Projet_SoundDesigner/OnceUponATime/Bande-annonce/LES_SURVIVANTS_Bande-annonce_nuhp0u.mp4";
+  "https://res.cloudinary.com/dnxl4odrm/video/upload/v1690842712/SOundDesigner/Video/Survivants_Trailer_vaqaui.mp4";
 
 const teddyVideo =
-  "https://res.cloudinary.com/dzq7b6tce/video/upload/v1689719956/Projet_SoundDesigner/OnceUponATime/Bande-annonce/Teddy_Trailer_hrizte.mp4";
+  "https://res.cloudinary.com/dnxl4odrm/video/upload/v1690842720/SOundDesigner/Video/Teddy_Trailer_eplctm.mp4";
 
 const juniorsVideo =
-  "https://res.cloudinary.com/dzq7b6tce/video/upload/v1689720351/Projet_SoundDesigner/OnceUponATime/Bande-annonce/Junior_Trailer_sy7yui.mp4";
+  "https://res.cloudinary.com/dnxl4odrm/video/upload/v1690842721/SOundDesigner/Video/Junior_Trailer_iqls2t.mp4";
 
 const sharkVideo =
-  "https://res.cloudinary.com/dzq7b6tce/video/upload/v1689720213/Projet_SoundDesigner/OnceUponATime/Bande-annonce/ADR_Trailer_eva9l8.mp4";
+  "https://res.cloudinary.com/dnxl4odrm/video/upload/v1690842717/SOundDesigner/Video/ADR_Trailer_vx2rl5.mp4";
 
 const brotherVideo =
-  "https://res.cloudinary.com/dzq7b6tce/video/upload/v1689720589/Projet_SoundDesigner/OnceUponATime/Bande-annonce/Mon_fr%C3%A8re_trailer_ovgs3m.mp4";
+  "https://res.cloudinary.com/dnxl4odrm/video/upload/v1690842717/SOundDesigner/Video/Mon_fr%C3%A8re_trailer_oaha40.mp4";
 
 const micVideo =
-  "https://res.cloudinary.com/dzq7b6tce/video/upload/v1689720758/Projet_SoundDesigner/OnceUponATime/Bande-annonce/Made_In_China_Trailer_msgl3a.mp4";
+  "https://res.cloudinary.com/dnxl4odrm/video/upload/v1690842721/SOundDesigner/Video/Made_In_China_Trailer_nh5zj8.mp4";
 
 const raisingVideo =
-  "https://res.cloudinary.com/dzq7b6tce/video/upload/v1689724138/Projet_SoundDesigner/OnceUponATime/Bande-annonce/Raising_Trailer_vnzhpz.mp4";
+  "https://res.cloudinary.com/dnxl4odrm/video/upload/v1690842716/SOundDesigner/Video/Raising_Trailer_u9ghlu.mp4";
 
 const nekfeuVideo =
-  "https://res.cloudinary.com/dzq7b6tce/video/upload/v1689725040/Projet_SoundDesigner/OnceUponATime/Bande-annonce/Nekfeu_Trailer_p1tsal.mp4";
+  "https://res.cloudinary.com/dnxl4odrm/video/upload/v1690842708/SOundDesigner/Video/Nekfeu_Trailer_jytyan.mp4";
 
 const maronaVideo =
-  "https://res.cloudinary.com/dzq7b6tce/video/upload/v1689725325/Projet_SoundDesigner/OnceUponATime/Bande-annonce/Marona_trailer_phlf5u.mp4";
+  "https://res.cloudinary.com/dnxl4odrm/video/upload/v1690842720/SOundDesigner/Video/Marona_trailer_k261hc.mp4";
 
 const tankVideo =
-  "https://res.cloudinary.com/dzq7b6tce/video/upload/v1689725435/Projet_SoundDesigner/OnceUponATime/Bande-annonce/TANK2_trailer_ni3chl.mp4";
+  "https://res.cloudinary.com/dnxl4odrm/video/upload/v1690842728/SOundDesigner/Video/TANK2_trailer_epy5u4.mp4";
 
 const theWayVideo =
-  "https://res.cloudinary.com/dzq7b6tce/video/upload/v1689725595/Projet_SoundDesigner/OnceUponATime/Bande-annonce/TheWay_Trailer_pjznyv.mp4";
+  "https://res.cloudinary.com/dnxl4odrm/video/upload/v1690842713/SOundDesigner/Video/TheWay_Trailer_vymoua.mp4";
 
 const novarosaVideo =
-  "https://res.cloudinary.com/dzq7b6tce/video/upload/v1689725647/Projet_SoundDesigner/OnceUponATime/Bande-annonce/Pub_Novarosa_AdobeExpress_s3xior.mp4";
+  "https://res.cloudinary.com/dnxl4odrm/video/upload/v1690842726/SOundDesigner/Video/Pub_Novarosa_AdobeExpress_k8rthe.mp4";
 
 //
 
